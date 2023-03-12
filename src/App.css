@@ -1,9 +1,11 @@
 .invalid {
-  border:1px solid red !important;
+  border:2px solid red !important;
  }
  input, textarea {
   outline: none !important;
   box-shadow: none !important; 
 }
 
- 
+.onSubmit{
+  background-color: yellow;
+}
